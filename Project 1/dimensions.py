@@ -5,3 +5,5 @@ if image is not None:
     print(f"Image loaded :\n HEIGHT :{h}\n WIDTH :{w}\n CHANNELS :{c}")
 else:
     print ( "could not load image")
+    
+    #this is used to find the dimensions of the image
