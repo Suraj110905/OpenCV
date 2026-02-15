@@ -1,6 +1,6 @@
 import cv2
 
-image = cv2.imread("Project 1\image.png")
+image = cv2.imread("Phase 1 (Image Handling Basics)\image.png")
 
 if image is not None:
     cv2.imshow("Image preview",image) #open the window for showing image
